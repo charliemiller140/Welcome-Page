@@ -8,13 +8,13 @@ Hello, I'm Charlie Miller, a Network Automation Engineer with 8+ years of experi
 ## Featured Repositories
 
 ### [Ansible-Homelab](https://github.com/charliemiller140/ansible-potato)
-A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes.
+A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes.**Work in Progress**
 
 ### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection)
 An Alexa skill that notifies users of local bin collection schedules (rubbish, recycling, garden waste). Uses a Raspberry Pi for Selenium-based web scraping, with AWS Lambda delivering voice integration via the Alexa SDK.
 
 ### [Desktop-Network-Info-GUI](https://github.com/charliemiller140/Desktop-Network-Info-GUI)
-A cross-platform Python GUI application that displays real-time IP, DNS, and interface details. Includes a built-in toggle for DHCP vs static IP, with a 5-second auto-refresh cycle.
+A Python GUI application that displays real-time IP, DNS, and interface details. Includes a built-in toggle for DHCP vs static IP, with a 5-second auto-refresh cycle.
 
 ### [O365toVelocloud](https://github.com/charliemiller140/O365toVelocloud)
 Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configurations. Supports network-aware policy enforcement and traffic shaping based on Office 365 service data.
