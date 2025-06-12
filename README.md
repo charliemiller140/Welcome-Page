@@ -20,7 +20,7 @@ A cross-platform Python GUI application that displays real-time IP, DNS, and int
 Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configurations. Supports network-aware policy enforcement and traffic shaping based on Office 365 service data.
 
 ### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper)
-A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service and includes scheduling support.
+A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service.
 
 ---
 
