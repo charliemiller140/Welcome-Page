@@ -8,7 +8,7 @@ Hello, I'm Charlie Miller, a Network Automation Engineer with 8+ years of experi
 ## Featured Repositories
 
 ### [Ansible-Homelab](https://github.com/charliemiller140/ansible-potato)
-A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes.**Work in Progress**
+A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes. **Work in Progress**
 
 ### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection)
 An Alexa skill that notifies users of local bin collection schedules (rubbish, recycling, garden waste). Uses a Raspberry Pi for Selenium-based web scraping, with AWS Lambda delivering voice integration via the Alexa SDK.
