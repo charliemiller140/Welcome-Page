@@ -42,4 +42,5 @@ Thanks for stopping by!
 If you have questions, suggestions, or would like to collaborate on a project, feel free to reach out. I'm always open to new ideas, problem-solving discussions, and engineering challenges.
 
 📨 [charliemiller140@gmail.com](mailto:charliemiller140@gmail.com)
+
 🌐 [linkedin.com/in/charliemiller140](https://www.linkedin.com/in/charlie-miller-a91641aa/)
