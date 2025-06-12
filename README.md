@@ -17,7 +17,7 @@ An Alexa skill that notifies users of local bin collection schedules (rubbish, r
 A Python GUI application that displays real-time IP, DNS, and interface details. Includes a built-in toggle for DHCP vs static IP, with a 5-second auto-refresh cycle.
 
 ### [O365toVelocloud](https://github.com/charliemiller140/O365toVelocloud)
-Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configurations. Supports network-aware policy enforcement and traffic shaping based on Office 365 service data.
+Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configuration via object groups. Provides network-aware policy enforcement and traffic shaping based on Office 365 service data.
 
 ### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper)
 A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service.
