@@ -16,7 +16,7 @@ A set of Ansible playbooks to automate VM provisioning, Docker deployments, and 
 ### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection-Public)
 An Alexa skill that notifies users of local bin collection schedules (rubbish, recycling, garden waste). Uses a Raspberry Pi for Selenium-based web scraping, with AWS Lambda delivering voice integration via the Alexa SDK.
 
-### [Desktop-Network-Info-GUI](https://github.com/charliemiller140/Desktop-Network-Info-GUI)
+### [Desktop-Network-Info-GUI](https://github.com/charliemiller140/Desktop-Network-Info-GUI-Public)
 A Python GUI application that displays real-time IP, DNS, and interface details. Includes a built-in toggle for DHCP vs static IP, with a 5-second auto-refresh cycle.
 
 ### [O365toVelocloud](https://github.com/charliemiller140/O365toVelocloud-Public)
