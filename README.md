@@ -22,6 +22,9 @@ A Python GUI application that displays real-time IP, DNS, and interface details.
 ### [O365 Endpoints to Velocloud](https://github.com/charliemiller140/O365toVelocloud-Public)
 Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configuration via object groups. Provides network-aware policy enforcement and traffic shaping based on Office 365 service data.
 
+### [No-IP Dynamic DNS Updater](https://github.com/charliemiller140/NoIpUpdater-Public)
+A lightweight Python script and Docker container to automatically update your No-IP Dynamic DNS hostname whenever your public IP changes. Ideal for home users with dynamic IPs who want to keep VPNs and remote services reachable without manual updates.
+
 ### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper-Public)
 A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service.
 
