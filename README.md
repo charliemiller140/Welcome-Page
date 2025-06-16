@@ -10,19 +10,19 @@ Hello, I'm Charlie Miller, a Network Automation Engineer with 8+ years of experi
 ### [Proxmox CI/CD Pipeline](https://github.com/charliemiller140/proxmox-ci-pipeline-public)
 A full CI/CD automation pipeline for provisioning VMs in Proxmox using Terraform, Cloud-Init, Ansible, and GitHub Actions. Includes support for VLAN tagging, static IPs, self-hosted runners, and post-deploy config. Designed to bridge IaC with real-world infrastructure workflows.
 
-### [Ansible-Homelab](https://github.com/charliemiller140/ansible-potato)
+### [Ansible-Homelab](https://github.com/charliemiller140/Ansible-Homelab-Public)
 A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes. **Work in Progress**
 
-### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection)
+### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection-Public)
 An Alexa skill that notifies users of local bin collection schedules (rubbish, recycling, garden waste). Uses a Raspberry Pi for Selenium-based web scraping, with AWS Lambda delivering voice integration via the Alexa SDK.
 
 ### [Desktop-Network-Info-GUI](https://github.com/charliemiller140/Desktop-Network-Info-GUI)
 A Python GUI application that displays real-time IP, DNS, and interface details. Includes a built-in toggle for DHCP vs static IP, with a 5-second auto-refresh cycle.
 
-### [O365toVelocloud](https://github.com/charliemiller140/O365toVelocloud)
+### [O365toVelocloud](https://github.com/charliemiller140/O365toVelocloud-Public)
 Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN configuration via object groups. Provides network-aware policy enforcement and traffic shaping based on Office 365 service data.
 
-### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper)
+### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper-Public)
 A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service.
 
 ---
