@@ -11,7 +11,7 @@ Hello, I'm Charlie Miller, a Network Automation Engineer with 8+ years of experi
 A full CI/CD automation pipeline for provisioning VMs in Proxmox using Terraform, Cloud-Init, Ansible, and GitHub Actions. Includes support for VLAN tagging, static IPs, self-hosted runners, and post-deploy config. Designed to bridge IaC with real-world infrastructure workflows.
 
 ### [Ansible-Homelab](https://github.com/charliemiller140/Ansible-Homelab-Public)
-A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes. **Work in Progress**
+A set of Ansible playbooks to automate VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes templated playbooks, SSH key injection, and container management with Watchtower and Trilium Notes. **Sort of superseded by Proxmox CI/CD Pipeline above.**
 
 ### [Bin Collection Alexa Skill](https://github.com/charliemiller140/BinCollection-Public)
 An Alexa skill that notifies users of local bin collection schedules (rubbish, recycling, garden waste). Uses a Raspberry Pi for Selenium-based web scraping, with AWS Lambda delivering voice integration via the Alexa SDK.
