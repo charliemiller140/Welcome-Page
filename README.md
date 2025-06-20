@@ -1,7 +1,7 @@
 
 # 👋 Welcome to my GitHub Portfolio
 
-Hello, I'm Charlie Miller, a Network Automation Engineer with 8+ years of experience in enterprise networking, infrastructure automation, and tooling development. This GitHub showcases a curated selection of real-world projects built to solve practical problems in my homelab and professional environments.
+Hello, I'm **Charlie Miller**, a Network Automation Engineer with 8+ years of experience in enterprise networking, infrastructure-as-code, and tooling development. This GitHub showcases a curated selection of real-world projects designed to solve practical problems in both homelab and professional environments.
 
 ---
 
