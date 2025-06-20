@@ -25,6 +25,10 @@ Custom automation script to integrate Office 365 telemetry with Velocloud SD-WAN
 ### [No-IP Dynamic DNS Updater](https://github.com/charliemiller140/NoIpUpdater-Public)
 A lightweight Python script and Docker container to automatically update your No-IP Dynamic DNS hostname whenever your public IP changes. Ideal for home users with dynamic IPs who want to keep VPNs and remote services reachable without manual updates.
 
+### [ClamAV Ansible CI](https://github.com/charliemiller140/Clamav-Ansible-Ci-Public)
+
+An automated ClamAV deployment and scanning framework using Ansible and GitHub Actions. Designed for Linux servers and container environments, it supports scheduled signature updates, recursive scans, and Slack/webhook alerting for infected files. Ideal for integrating basic AV hygiene into infrastructure-as-code and CI workflows.
+
 ### [Windows-NASA-Wallpaper](https://github.com/charliemiller140/Windows-NASA-Wallpaper-Public)
 A simple automation script for fetching and applying NASA’s latest high-resolution image of the day as your Windows wallpaper. Integrates with NASA’s open API service.
 
