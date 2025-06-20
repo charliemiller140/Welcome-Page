@@ -15,7 +15,7 @@ Automates SD-WAN policy generation by ingesting Microsoft 365 endpoint telemetry
 
 ### [Ansible-Homelab](https://github.com/charliemiller140/Ansible-Homelab-Public)  
 A collection of Ansible playbooks for automating VM provisioning, Docker deployments, and system configuration in a Proxmox-based homelab. Includes SSH key injection, templated roles, and container management with Watchtower and Trilium Notes.  
-**Note:** Functionally superseded by the Proxmox CI/CD Pipeline above.
+**Note:** Superseded by the Proxmox CI/CD Pipeline above.
 
 ### [ClamAV Ansible CI](https://github.com/charliemiller140/Clamav-Ansible-Ci-Public)  
 A lightweight CI pipeline for automated ClamAV deployment and scanning using Ansible and GitHub Actions. Supports scheduled definition updates and recursive scanning on Linux systems. Designed to embed basic antivirus hygiene into infrastructure-as-code workflows.
